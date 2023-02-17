@@ -1,0 +1,88 @@
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe.config
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.pdb
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Buffers.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Memory.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Json.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Buffers.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Memory.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Json.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.ValueTuple.xml
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.CopyComplete
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe
+C:\Users\Gabriel\OneDrive\Área de Trabalho\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.pdb
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe.config
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.pdb
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Buffers.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Memory.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Numerics.Vectors.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Encodings.Web.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Json.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.ValueTuple.dll
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Buffers.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Memory.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Numerics.Vectors.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Encodings.Web.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Text.Json.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\bin\Debug\System.ValueTuple.xml
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.AssemblyReference.cache
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.CoreCompileInputs.cache
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.csproj.CopyComplete
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.exe
+F:\DEV\Dynacop\Dynacoop2023.AlfaPeople.Dynamics365\Dynacoop2023.AlfaPeople.ConsoleApplication\obj\Debug\Dynacoop2023.AlfaPeople.ConsoleApplication.pdb
